@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "cripermanafkbot",
-    "password": "",
+    "username": "STIWuz",
+    "password": "405 FNP",
     "type": "offline"
   },
   "server": {
-    "ip": "criperman2b2t.aternos.me",
-    "port": 20563,
-    "version": "1.21.11",
+    "ip": "FlameVibeGaming.aternos.me",
+    "port": 19886,
+    "version": "1.21.80.3",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "405 FNP"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to criperman pro uz!",
-        "I like to play Minecraft!"
+        jxjdjsjsndn
+            sanjar bek08!",
+        "STIWuz!"
       ]
     },
     "chat-log": true,
